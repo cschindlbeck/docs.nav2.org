@@ -96,7 +96,7 @@ Input Ports
   Description
     	Maximum forward integrated distance along the path (starting from the last detected pose) to bound the search for the closest pose to the robot. When set to infinity (default), whole path is searched every time.
 
-Ouput Ports
+Output Ports
 -----------
 
 :output_path:
